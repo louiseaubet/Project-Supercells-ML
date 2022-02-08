@@ -37,7 +37,7 @@ The following librairies are used:
 #### Code
 
 The folder `model/part_1` contains the implementation of the Random Forest and the folder `model/part_2` contains the implementation of the CNN.
-The folder `data` contains the input data used by the models.
+The folder `data` contains part of the input data used by the models.
 
 
 ### Additional content

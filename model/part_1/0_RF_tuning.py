@@ -8,7 +8,7 @@ Created on Wed Dec 15 07:53:32 2021
 
 import os
 code_home_path = '/home/aubet'
-os.chdir(code_home_path+'/Project_Supercells_ML/part_1')
+os.chdir(code_home_path+'/Project_Supercells_ML/model/part_1')
 
 #####
 
